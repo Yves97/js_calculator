@@ -64,11 +64,11 @@ button:focus{
     transition:0.5s;
 }
 
-.yellow{
+.reset{
     background: #f8a400;
 }
 
-.green{
+.result{
     background: #05434b;
     color: white;
 }
